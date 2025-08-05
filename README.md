@@ -48,7 +48,7 @@ QuickTestly/
 
 To run this project locally:
 
-```bash
+```
 # 1. Clone the repository
 git clone https://github.com/SohamAI99/QuickTestly.git
 cd QuickTestly
@@ -58,8 +58,11 @@ npm install
 
 # 3. Start the development server
 npm run dev
+```
+
 Then open your browser and visit:
 👉 http://localhost:5173
+
 
 📌 Roadmap
  Role-based Routing (User / Teacher)
